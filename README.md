@@ -1,4 +1,4 @@
-**Food Ordering System - Delivero**
+<h1 style="font-size: 24px;">**Food Ordering System - Delivero**</h1>
 
 __How to Run this Project?__
 
