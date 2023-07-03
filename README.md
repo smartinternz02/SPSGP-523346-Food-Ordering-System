@@ -1,5 +1,6 @@
-Food Ordering System - Delivero
-How to Run this Project?
+**Food Ordering System - Delivero**
+
+__How to Run this Project?__
 
 Follow the steps below to run the project successfully:
 
