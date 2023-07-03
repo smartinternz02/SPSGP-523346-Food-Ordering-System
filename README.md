@@ -1,4 +1,3 @@
-# SPSGP-523346-Food-Ordering-System
 Food Ordering System - Delivero
 How to Run this Project?
 
