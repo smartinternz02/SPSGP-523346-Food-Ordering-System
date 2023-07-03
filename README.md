@@ -1,11 +1,13 @@
 # SPSGP-523346-Food-Ordering-System
 Food Ordering System - Delivero
+How to Run this Project?
 
-How to Run this Project ?
+Follow the steps below to run the project successfully:
 
-Steps :
+1. Start by running the backend. Execute the MadProjectApplication.java file located in the Back-End Folder.
+2. Next, run the frontend. Execute the home.html file located in the Front-End Folder.
 
-1. First Run the Backend First, Run the MadProjectApplication.java file first, which is located in the Backend Folder.
-2. Now Run the Front End Next, Run the home.html file , which is located in the Backend Folder.
+Note: If you intend to run the project on your platform with the backend, ensure that you include your MySQL database address in the application.properties file of the Back-End Folder.
 
-Note: If you want to run the project in your platform make sure 
+Please make sure to have the necessary dependencies and configurations set up in your pom.xml and application.properties in your Back-End Folder before running the project.
+
