@@ -1,6 +1,6 @@
-<h1 style="font-size: 24px;">**Food Ordering System - Delivero**</h1>
+<h1 style="font-size: 24px;">Food Ordering System - Delivero</h1>
 
-__How to Run this Project?__
+<h2 style="font-size: 18px;">How to Run this Project? </h2>
 
 Follow the steps below to run the project successfully:
 
